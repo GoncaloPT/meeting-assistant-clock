@@ -1,0 +1,25 @@
+{
+  "name": "relogio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Relogio forte da casa",
+  "license": "",
+  "scripts": {
+    "postinstall": "",
+    "prestart": "npm install"
+  },
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "compression": "latest",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "morgan": "~1.2.2",
+    "node-cache": "3.2.1",
+    "promise": "^7.1.1",
+    "q": "^1.4.1",
+    "request": "2.65.0",
+    "shelljs": "^0.2.6"
+  },
+  "devDependencies": {
+  }
+}
